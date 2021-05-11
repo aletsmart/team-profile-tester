@@ -11,6 +11,7 @@
     "@golstats/team-profile": "^0.1.2",
     "@mdi/font": "^5.3.45",
     "alets-fonts": "^1.0.0",
+    "apexcharts": "^3.26.2",
     "axios": "^0.21.1",
     "buefy": "^0.8.0",
     "core-js": "^3.6.5",
